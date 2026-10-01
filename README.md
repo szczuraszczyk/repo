@@ -4,7 +4,8 @@
 
 ### strona główna:
 - główny blok z czymś ( wyświetlanie się ostatnio dodanych, może uluione) + na pewno część usera z np przypomnieniem, dzienne czytanie/oglądanie
-- strona główna na początku od góry może zawierać zdjecie profilowe usera (przy naciśnięciu : 1) wyskakują opcję 2) od razu przechodzi się do profilu lub/i ustawień) 
+- strona główna na początku od góry może zawierać zdjecie profilowe usera (przy naciśnięciu : 1) wyskakują opcję 2) od razu przechodzi się do profilu lub/i ustawień)
+- następny 'div' lub blok to opcjonalne (jeśli user ma cos ustawione) przypomnienie typu '15 minut dziennego czytania' 
 
 ### pasek rozwijany (serce albo inny znak):
 - jest na środku na dole ekranu (prze mega hiper expert mode uzytkownik mógłby zadecydować gdzie ma być ten pasek)
