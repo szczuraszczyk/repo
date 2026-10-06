@@ -5,10 +5,13 @@ import viteLogo from "./assets/vite.svg";
 import "./App.css";
 
 function App() {
-  // const [count, setCount] = useState(0)
-function click() {
+  const [count, setCount] = useState(0)
+  const handleClick = () => {
+    setCount(count + 1);
+    console.log("Kliknięto serce! Aktualna liczba kliknięć: " + (count));
+  };
   
-}
+
   return (
     <>
       {/* <section id="center">
@@ -174,31 +177,27 @@ function click() {
           src="public/sercePlaceholder.png"
           className="serce-placeholder"
           alt="serce"
-          onClick={click}
         />
         <img
           src="public/sercePlaceholder.png"
           className="serce-placeholder"
           alt="serce"
-          onClick={click}
         />
         <img
           src="public/sercePlaceholder.png"
           className="serce-placeholder"
           alt="serce"
-          onClick={click}
+          onClick={handleClick}
         />
         <img
           src="public/sercePlaceholder.png"
           className="serce-placeholder"
           alt="serce"
-          onClick={click}
         />
         <img
           src="public/sercePlaceholder.png"
           className="serce-placeholder"
           alt="serce"
-          onClick={click}
         />
       </main>
       <footer>
@@ -206,6 +205,6 @@ function click() {
       </footer>
     </>
   );
-}
 
+}
 export default App;
