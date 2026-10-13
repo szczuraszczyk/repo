@@ -1,17 +1,28 @@
+!!!!! zmiana całego projektu, stary zamysł: biblioteka konsumowanych medii.
 
-## biblioteka konsumowanych medii
-###### (wszystko tutaj jest pomysłem i mogą się zmienić)
+## fan-made strona dla kilku specyficznych rzeczy z gry Project Sekai: Colorful Stage! _[pjsk]_
+### główny zamysł podstron/funkcji:
+1. (która głównie przysunęła tą stronę do głowy): customizowanie obramowanie _[<ins>frame</ins>]_ z _eventu_ "Connect to SEKAI!", inaczej _<ins>finale2</ins>_. _frame_ ma 6 części dla których można wybrać jeden kolor z 26 dostępnych {każdy kolor należy do jednej z postaci},
+   - jako dodatek, dodać opcję wyboru czy ma to być _frame_ z eventu "Wishes in Bloom!", inaczej _<ins>finale1</ins>_ czy _finale2_ .
+2. lista _piosenek_ dobrych do zdobycia konkretnej rangi w wybranym _evencie_ - _[<ins>tiering</ins>]_ ,
+3. podstrona poświęcona grupom i postaci
+4. podstrona poświęcona wszystkim _eventom_ pjsk
+5. opcja obliczenia ile zostało czasu do danego eventu (na sucho)
+6. . . . ?
 
-### strona główna:
-- główny blok z czymś ( wyświetlanie się ostatnio dodanych, może uluione) + na pewno część usera z np przypomnieniem, dzienne czytanie/oglądanie
-- strona główna na początku od góry może zawierać zdjecie profilowe usera (przy naciśnięciu : 1) wyskakują opcję 2) od razu przechodzi się do profilu lub/i ustawień)
-- następny 'div' lub blok to opcjonalne (jeśli user ma cos ustawione) przypomnienie typu '15 minut dziennego czytania' 
+#### strona główna:
+- [ ] pokazuje aktualną datę i godzinę (także i timezone) użytkownika wraz z datą i godziną globalnego serwera pjsk
+  - [ ] wyświetla różnicę między timezone'ami
+      - [ ] JEŚLI będzie to możliwe, to pokazuje aktualne event i *banery* na globalnym serwerze pjsk, ile czasu zostało itd. może być to niemożliwe, ale będzie można to zrobić na sucho używając założonych dat wydarzeń
+- [ ] opcja zmiany tła na dostępne opcje
+   - [ ] opcja zmiany motywu całej strony
+- [ ] inne ustawienia (to be updated. .)
 
-### pasek rozwijany (serce albo inny znak):
-- jest na środku na dole ekranu (prze mega hiper expert mode uzytkownik mógłby zadecydować gdzie ma być ten pasek)
+#### customizowany frame finale2:
+- 
+- [ ] 
+
+#### pasek rozwijany (serce albo inny znak):
 - przy scrollowaniu zostaje w jednym miejscu
 - rozwija się albo na boki, albo w 'koło' albo w górę (użytkownik też mógłby to sobie wybrać, ale na tym etapie wybór padnie na najłatwiejszą opcję) 
-### pasek rozwijany zawiera:
-- część z biblioteką folderów stworzonych przez użytkownika (na pasku?) rozwija się: foldery usera.
-- kategorie usera \
-^ (kategorie(hashtagi??) typu romcom horror a foldery z np. ulubione filmy itd będą oddzielnie). każde media będą miały hashtagi typu #action #shonen
+#### pasek rozwijany zawiera:
