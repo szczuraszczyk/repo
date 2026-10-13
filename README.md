@@ -1,11 +1,14 @@
+!!!!! zmiana całego projektu, stary zamysł: biblioteka konsumowanych medii.
 
-## biblioteka konsumowanych medii
-###### (wszystko tutaj jest pomysłem i mogą się zmienić)
+## fan-made strona dla kilku specyficznych rzeczy z gry Project Sekai: Colorful Stage! _[pjsk]_
+### główny zamysł podstron/funkcji:
+1. (która głównie przysunęła tą stronę do głowy): customizowanie obramowanie _[<ins>frame</ins>]_ z _eventu_ "Connect to SEKAI!", inaczej _<ins>finale2</ins>_. _frame_ ma 6 części dla których można wybrać jeden kolor z 26 dostępnych {każdy kolor należy do jednej z postaci},
+   - jako dodatek, dodać opcję wyboru czy ma to być _frame_ z eventu "Wishes in Bloom!", inaczej _<ins>finale1</ins>_ czy _finale2_ .
+2. lista _piosenek_ dobrych do zdobycia konkretnej rangi w wybranym _evencie_ - _[<ins>tiering</ins>]_ ,
+3. podstrona poświęcona grupom i postaci 
 
 ### strona główna:
-- główny blok z czymś ( wyświetlanie się ostatnio dodanych, może uluione) + na pewno część usera z np przypomnieniem, dzienne czytanie/oglądanie
-- strona główna na początku od góry może zawierać zdjecie profilowe usera (przy naciśnięciu : 1) wyskakują opcję 2) od razu przechodzi się do profilu lub/i ustawień)
-- następny 'div' lub blok to opcjonalne (jeśli user ma cos ustawione) przypomnienie typu '15 minut dziennego czytania' 
+
 
 ### pasek rozwijany (serce albo inny znak):
 - jest na środku na dole ekranu (prze mega hiper expert mode uzytkownik mógłby zadecydować gdzie ma być ten pasek)
